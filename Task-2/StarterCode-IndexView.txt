@@ -1,0 +1,29 @@
+@using MVCStructure.Models
+@model List<Album>
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Album Title</th>
+            <th>Artist</th>
+            <th>Record Label</th>
+            <th>Release Date</th>
+            <th>Copies Sold</th>
+            <th>Streams</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var album in Model)
+        {
+            <tr>
+                <td>@album.Name</td>
+                <td>@album.Artist.Name</td>
+                <td>@album.RecordLabel</td>
+                <td>@album.ReleaseDate.ToString("MMMM dd, yyyy")</td>
+                <td>@album.CopiesSold.ToString("N0")</td>
+                <td>@album.Streams.ToString("N0")</td>
+            </tr>
+
+        }
+    </tbody>
+</table>
