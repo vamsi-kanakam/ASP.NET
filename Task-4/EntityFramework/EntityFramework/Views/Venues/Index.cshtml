@@ -1,0 +1,9 @@
+﻿@using EntityFramework.Models
+@model List<Venue>
+
+@foreach(var v in Model)
+{
+    @v.Name<br />
+    @v.MaxCapacity<br />
+    <br />
+}
