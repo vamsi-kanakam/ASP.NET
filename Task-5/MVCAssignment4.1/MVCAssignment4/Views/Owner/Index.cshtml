@@ -1,0 +1,51 @@
+﻿@using MVCAssignment4.Models
+@model IEnumerable<Owner>
+
+@{
+    ViewData["Title"] = "Owner Index";
+}
+
+<div class="container">
+    <h1>Owners  List</h1>
+    <table class="table table-condensed table-hover table-striped">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(m => m.OwnerId)</th>
+                <th>@Html.DisplayNameFor(m => m.FirstName)</th>
+                <th>@Html.DisplayNameFor(m => m.LastName)</th>
+                <th>@Html.DisplayNameFor(m => m.Address)</th>
+                <th>@Html.DisplayNameFor(m => m.Email)</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var o in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(n => o.OwnerId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(n => o.FirstName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(n => o.LastName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(n => o.Address)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(n => o.Email)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@o.OwnerId">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@o.OwnerId">Delete</a>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+    <p>
+        <a asp-action="Create">Create A New Owner</a>
+    </p>
+</div>

@@ -1,0 +1,23 @@
+﻿@model Owner
+
+@* form to collect information *@
+
+<form asp-action="Create">
+    <label asp-for="FirstName">FirstName :</label>
+    <input asp-for="FirstName"/>
+    <br />
+    <label asp-for="LastName">LastName :</label>
+    <input asp-for="LastName" />
+    <br />
+    <label asp-for="Address">Address :</label>
+    <input asp-for="Address" />
+    <br />
+    <label asp-for="Email">Email :</label>
+    <input asp-for="Email" />
+    <br />
+
+    <input type="submit" value="Add Owner"/>
+
+</form>
+
+<a asp-action="Index">Return to List of Owners</a>
