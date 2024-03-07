@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\views\\venues\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\views\\venues\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\views\\venues\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\views\\venues\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\views\\productioncompanies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\views\\productioncompanies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\views\\productioncompanies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\views\\productioncompanies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\views\\productioncompanies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\views\\productioncompanies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\views\\performingacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\views\\performingacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\views\\performingacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\views\\performingacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\views\\performingacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\views\\performingacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\views\\performingacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\views\\performingacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\views\\performingacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\views\\performingacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\views\\productioncompanies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\views\\productioncompanies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\views\\productioncompanies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\views\\productioncompanies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\views\\venues\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\views\\venues\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\views\\venues\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\views\\venues\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\views\\venues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\views\\venues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\controllers\\productioncompaniescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\controllers\\productioncompaniescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\controllers\\performingactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\controllers\\performingactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\dal\\eventplannercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\dal\\eventplannercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\models\\performingact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\models\\performingact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\models\\productioncompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\models\\productioncompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|d:\\acads\\sem-2\\c#\\programs\\eventplanner\\eventplanner\\migrations\\20240228200740_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6C7AFB-B55B-4B71-8D26-0560D47BFE70}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\migrations\\20240228200740_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\ProductionCompanies\\Details.cshtml",
+              "RelativeDocumentMoniker": "EventPlanner\\Views\\ProductionCompanies\\Details.cshtml",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\ProductionCompanies\\Details.cshtml",
+              "RelativeToolTip": "EventPlanner\\Views\\ProductionCompanies\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T20:35:04.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\ProductionCompanies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EventPlanner\\Views\\ProductionCompanies\\Edit.cshtml",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\ProductionCompanies\\Edit.cshtml",
+              "RelativeToolTip": "EventPlanner\\Views\\ProductionCompanies\\Edit.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T20:34:57.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\Venues\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventPlanner\\Views\\Venues\\Create.cshtml",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\Venues\\Create.cshtml",
+              "RelativeToolTip": "EventPlanner\\Views\\Venues\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T20:33:47.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\Venues\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EventPlanner\\Views\\Venues\\Edit.cshtml",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\Venues\\Edit.cshtml",
+              "RelativeToolTip": "EventPlanner\\Views\\Venues\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T20:32:15.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\ProductionCompanies\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventPlanner\\Views\\ProductionCompanies\\Create.cshtml",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\ProductionCompanies\\Create.cshtml",
+              "RelativeToolTip": "EventPlanner\\Views\\ProductionCompanies\\Create.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T20:35:36.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\PerformingActs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EventPlanner\\Views\\PerformingActs\\Edit.cshtml",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\PerformingActs\\Edit.cshtml",
+              "RelativeToolTip": "EventPlanner\\Views\\PerformingActs\\Edit.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T20:36:36.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\PerformingActs\\Details.cshtml",
+              "RelativeDocumentMoniker": "EventPlanner\\Views\\PerformingActs\\Details.cshtml",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\PerformingActs\\Details.cshtml",
+              "RelativeToolTip": "EventPlanner\\Views\\PerformingActs\\Details.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC0AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T20:36:44.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\PerformingActs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EventPlanner\\Views\\PerformingActs\\Delete.cshtml",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\PerformingActs\\Delete.cshtml",
+              "RelativeToolTip": "EventPlanner\\Views\\PerformingActs\\Delete.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T20:37:02.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\PerformingActs\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventPlanner\\Views\\PerformingActs\\Create.cshtml",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\PerformingActs\\Create.cshtml",
+              "RelativeToolTip": "EventPlanner\\Views\\PerformingActs\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T20:37:09.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\PerformingActs\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventPlanner\\Views\\PerformingActs\\Index.cshtml",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\PerformingActs\\Index.cshtml",
+              "RelativeToolTip": "EventPlanner\\Views\\PerformingActs\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADUAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T20:35:49.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\ProductionCompanies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EventPlanner\\Views\\ProductionCompanies\\Delete.cshtml",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\ProductionCompanies\\Delete.cshtml",
+              "RelativeToolTip": "EventPlanner\\Views\\ProductionCompanies\\Delete.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T20:35:27.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\Venues\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EventPlanner\\Views\\Venues\\Delete.cshtml",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\Venues\\Delete.cshtml",
+              "RelativeToolTip": "EventPlanner\\Views\\Venues\\Delete.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T20:33:29.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\Venues\\Details.cshtml",
+              "RelativeDocumentMoniker": "EventPlanner\\Views\\Venues\\Details.cshtml",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\Venues\\Details.cshtml",
+              "RelativeToolTip": "EventPlanner\\Views\\Venues\\Details.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T20:32:49.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\ProductionCompanies\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventPlanner\\Views\\ProductionCompanies\\Index.cshtml",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\ProductionCompanies\\Index.cshtml",
+              "RelativeToolTip": "EventPlanner\\Views\\ProductionCompanies\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T20:26:40.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\Venues\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventPlanner\\Views\\Venues\\Index.cshtml",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Views\\Venues\\Index.cshtml",
+              "RelativeToolTip": "EventPlanner\\Views\\Venues\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T20:28:08.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductionCompaniesController.cs",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Controllers\\ProductionCompaniesController.cs",
+              "RelativeDocumentMoniker": "EventPlanner\\Controllers\\ProductionCompaniesController.cs",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Controllers\\ProductionCompaniesController.cs",
+              "RelativeToolTip": "EventPlanner\\Controllers\\ProductionCompaniesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T20:16:56.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PerformingActsController.cs",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Controllers\\PerformingActsController.cs",
+              "RelativeDocumentMoniker": "EventPlanner\\Controllers\\PerformingActsController.cs",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Controllers\\PerformingActsController.cs",
+              "RelativeToolTip": "EventPlanner\\Controllers\\PerformingActsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T20:16:15.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VenuesController.cs",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Controllers\\VenuesController.cs",
+              "RelativeDocumentMoniker": "EventPlanner\\Controllers\\VenuesController.cs",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Controllers\\VenuesController.cs",
+              "RelativeToolTip": "EventPlanner\\Controllers\\VenuesController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T20:15:05.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240228200740_Initial.cs",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Migrations\\20240228200740_Initial.cs",
+              "RelativeDocumentMoniker": "EventPlanner\\Migrations\\20240228200740_Initial.cs",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Migrations\\20240228200740_Initial.cs",
+              "RelativeToolTip": "EventPlanner\\Migrations\\20240228200740_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T20:07:41.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EventPlannerContext.cs",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\DAL\\EventPlannerContext.cs",
+              "RelativeDocumentMoniker": "EventPlanner\\DAL\\EventPlannerContext.cs",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\DAL\\EventPlannerContext.cs",
+              "RelativeToolTip": "EventPlanner\\DAL\\EventPlannerContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T20:02:29.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "EventPlanner\\Models\\Venue.cs",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Models\\Venue.cs",
+              "RelativeToolTip": "EventPlanner\\Models\\Venue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T19:58:22.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PerformingAct.cs",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Models\\PerformingAct.cs",
+              "RelativeDocumentMoniker": "EventPlanner\\Models\\PerformingAct.cs",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Models\\PerformingAct.cs",
+              "RelativeToolTip": "EventPlanner\\Models\\PerformingAct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T19:57:06.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "EventPlanner\\Models\\Event.cs",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Models\\Event.cs",
+              "RelativeToolTip": "EventPlanner\\Models\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T19:56:08.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\appsettings.json",
+              "RelativeDocumentMoniker": "EventPlanner\\appsettings.json",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\appsettings.json",
+              "RelativeToolTip": "EventPlanner\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-28T19:49:40.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Program.cs",
+              "RelativeDocumentMoniker": "EventPlanner\\Program.cs",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Program.cs",
+              "RelativeToolTip": "EventPlanner\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T19:50:17.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductionCompany.cs",
+              "DocumentMoniker": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Models\\ProductionCompany.cs",
+              "RelativeDocumentMoniker": "EventPlanner\\Models\\ProductionCompany.cs",
+              "ToolTip": "D:\\ACADS\\SEM-2\\C#\\Programs\\EventPlanner\\EventPlanner\\Models\\ProductionCompany.cs",
+              "RelativeToolTip": "EventPlanner\\Models\\ProductionCompany.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T19:57:42.048Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
