@@ -1,0 +1,39 @@
+﻿@using EntityFramework.Models
+@model IEnumerable<Venue>
+
+@{
+    ViewData["Title"] = "Venue Index";
+}
+
+<div class="container">
+    <h1>Venue List</h1>
+    <table class="table table-condensed table-hover table-striped">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(vi => vi.Name)</th>
+                <th>@Html.DisplayNameFor(vi => vi.MaxCapacity)</th>
+                <th><a>Edit/Delete</a></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var v in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(n => v.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(n => v.MaxCapacity)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@v.VenueId" class="btn btn-success">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@v.VenueId" class="btn btn-danger">Delete</a>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+    <p>
+        <a asp-action="Create" class="btn btn-primary">Create A New Owner</a>
+    </p>

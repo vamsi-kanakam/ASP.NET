@@ -1,0 +1,16 @@
+﻿@model Venue
+
+<form asp-action="Edit">
+    <label asp-for="Name"></label>
+    <input asp-for="Name" />
+    <span asp-validation-for="Name" class="text-danger"></span>
+    <br />
+    <label asp-for="MaxCapacity"></label>
+    <input asp-for="MaxCapacity" />
+    <span asp-validation-for="MaxCapacity" class="text-danger"></span>
+    <br />
+    <input type="submit" value="Edit Venue" class="btn btn-primary" />
+</form>
+<br/>
+
+<a asp-action="Index" class="btn btn-outline-secondary btn-sm">Back to Venues List</a>

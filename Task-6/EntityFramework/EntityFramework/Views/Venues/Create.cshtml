@@ -1,0 +1,15 @@
+﻿@model Venue
+
+<form asp-action="Create">
+    <label asp-for="Name">Venue Name: </label>
+    <input asp-for="Name"/>
+    <span asp-validation-for="Name" class="text-danger"></span>
+    <br />
+    <label asp-for="MaxCapacity">MaxCapacity : </label>
+    <input asp-for="MaxCapacity" />
+    <span asp-validation-for="MaxCapacity" class="text-danger"></span>
+    <br />
+    <input type="submit" value="Create Venue"/>
+</form>
+
+<a asp-action="Index">Back to Venues List</a>

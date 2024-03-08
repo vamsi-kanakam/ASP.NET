@@ -1,0 +1,14 @@
+﻿@model Venue
+
+<h3>Are you sure you wanna Delete @Model.VenueId - @Model.Name ??</h3>
+
+<form asp-action="Delete">
+    <input type="hidden" asp-for="VenueId" />
+    <div>
+        <input type="submit" value="Delete Venue" class="btn btn-outline-danger"/>
+    </div>
+</form>
+<br />
+<div >
+    <a asp-action="Index" class="btn btn-outline-secondary btn-sm" >Back to Venues List</a>
+</div>
