@@ -1,0 +1,31 @@
+﻿@model PerformingActSearchViewModel
+
+<form asp-action="Search">
+    <div class="form-group">
+        <input asp-for="PerformingAct.Name" class="form-control"/>
+        <input type="submit" value="Search for Act" class="btn btn-default"/>
+    </div>
+</form>
+
+<div class="text-danger">@Model.SearchError</div>
+
+@if (Model.ResultList.Count > 0)
+{
+    <table class="table table-condensed table-bordered">
+        <thead>
+            <tr>
+                <th>Acts Found</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var pa in Model.ResultList)
+            {
+                <tr>
+                    <td>
+                        <a asp-action="Details" asp-controller="PerformingActs" asp-route-id="@pa.PerformingActId"> @pa.Name </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
