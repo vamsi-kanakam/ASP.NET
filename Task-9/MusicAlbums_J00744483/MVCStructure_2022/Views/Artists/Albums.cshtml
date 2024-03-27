@@ -1,0 +1,30 @@
+﻿@using MVCStructure_2022.Models;
+
+@model Artist
+
+<h1>Albums by @Model.Name</h1>
+
+
+@foreach(var a in Model.Albums){
+    <h3>@a.Title</h3>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Song Title</th>
+                <th>Track Number</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var s in a.Songs)
+            {
+                <tr>
+                    <td>@s.Title</td>
+                    <td>@s.TrackNumber</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<a asp-action="Index">Return to Artist</a>
